@@ -34,7 +34,7 @@ text-align: left;
 </tr>
 <tr>
 <td>Libros</td>
-<td><a href="https://www.libtotal.com" target="_blank">LibroTotal</a></td>
+<td><a href="https://www.librototal.com" target="_blank">LibroTotal</a></td>
 <td>Plataforma web con múltiples libros gratuitos</td>
 </tr>
 <tr>
